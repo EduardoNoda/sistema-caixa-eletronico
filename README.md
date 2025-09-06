@@ -30,8 +30,20 @@ O sistema foi projetado em **arquitetura modular**, com foco em boas práticas d
 ```bash
 📂 caixa-eletronico
 ├── main.c              # Menu principal e controle do fluxo
-├── cliente.c           # Funções para cadastro, alteração e exclusão de clientes
-├── saque.c             # Lógica de saque e manipulação de cédulas
-├── relatorio.c         # Geração de relatórios
-├── utils.c             # Funções auxiliares (ex: geração de CPF, conta corrente)
 └── README.md           # Documentação do projeto
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+- Linguagem C
+- Lógica Procedural
+- Estrutura de dados
+- CLI
+
+---
+
+## Autor
+
+Eduardo Faleiros Noda
+[LinkedIn](https://www.linkedin.com/in/eduardo-noda)
