@@ -31,7 +31,7 @@ O sistema foi projetado em **arquitetura modular**, com foco em boas práticas d
 📂 caixa-eletronico
 ├── main.c              # Menu principal e controle do fluxo
 └── README.md           # Documentação do projeto
-
+```
 ---
 
 ## ⚙️ Tecnologias Utilizadas
